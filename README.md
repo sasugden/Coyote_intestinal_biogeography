@@ -3,9 +3,9 @@ This GitHub repository will contain information for the manuscript 'High individ
 
 <ul>
   <li>"analysis_code" provides the R code to reproduce all analyses and statistical tests.</li>
-  <li>"figure_code" provides the R code to reproduce all figures.</li>
+  <li>"figure_code" provides the R code to reproduce all figures. It requires objects produced by "analysis_code."</li>
   </ul>
   
-Raw data will be made publicly available as an R workspace object after the manuscript has been accepted, or on reasonable request by contacting the first author (ssugden@ualberta.ca).
+The raw and rarefied feature tables and sample metadata will be made publicly available as an R workspace object after the manuscript has been accepted, or on reasonable request by contacting the first author (ssugden@ualberta.ca).
 
 De-multiplexed, unfiltered sequencing data has been deposited in the NCBI Short Read Archive under accession number PROJNA528765.
