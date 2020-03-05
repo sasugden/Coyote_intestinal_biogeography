@@ -1,11 +1,11 @@
 # Coyote_intestinal_biogeography
-This GitHub repository will contain information for the manuscript 'High individual variation in a biogeographical profile of the coyote gastrointestinal microbiome,' which is currently in preparation.
+This GitHub repository contains information for the manuscript 'High individual variation in a biogeographical profile of the coyote gastrointestinal microbiome,' which has been submitted for peer review.
 
 <ul>
-  <li>"analysis_code" provides the R code to reproduce all analyses and statistical tests.</li>
-  <li>"figure_code" provides the R code to reproduce all figures. It requires objects produced by "analysis_code."</li>
+  <li>"bg_analysis_code" provides the R code to reproduce all analyses and statistical tests.</li>
+  <li>"bg_figures_code" provides the R code to reproduce all figures. It requires objects produced by "analysis_code."</li>
   </ul>
   
-The raw and rarefied feature tables and sample metadata will be made publicly available as an R workspace object after the manuscript has been accepted, or on reasonable request by contacting the first author (ssugden@ualberta.ca).
+The raw and rarefied feature tables and sample metadata will be made publicly available as an R workspace object after the manuscript has been accepted, or on reasonable request by contacting the first author (ssugden@ualberta.ca or sasugden@gmail.com).
 
 De-multiplexed, unfiltered sequencing data has been deposited in the NCBI Short Read Archive under accession number PROJNA528765.
