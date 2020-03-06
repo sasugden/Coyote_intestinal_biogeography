@@ -8,4 +8,4 @@ This GitHub repository contains information for the manuscript 'High individual 
   
 The raw and rarefied feature tables and sample metadata will be made publicly available as an R workspace object after the manuscript has been accepted, or on reasonable request by contacting the first author (ssugden@ualberta.ca or sasugden@gmail.com).
 
-De-multiplexed, unfiltered sequencing data has been deposited in the NCBI Short Read Archive under accession number PROJNA528765.
+De-multiplexed, unfiltered sequencing data has been deposited in the NCBI Short Read Archive under accession number PRJNA528765.
